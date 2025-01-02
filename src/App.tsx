@@ -1,7 +1,7 @@
 import Navigation from './components/Navigation';
 import Skills from './components/Skills';
 import Projects from './components/Projects';
-import AnimationPortfolio from './components/AnimationPortfolio';
+// import AnimationPortfolio from './components/AnimationPortfolio';
 import Footer from './components/Footer';
 
 function App() {
@@ -41,7 +41,7 @@ function App() {
 
       <Skills />
       <Projects />
-      <AnimationPortfolio />
+      {/* <AnimationPortfolio /> */}
       <Footer />
     </div>
   );
