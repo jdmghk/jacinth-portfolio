@@ -10,7 +10,7 @@ export const projects = [
     {
       id: 2,
       title: "LexLance",
-      description: "Legal tech platform connecting lawyers with clients. Implemented secure document handling and real-time communication features.",
+      description: "Legal tech platform connecting lawyers with clients. Implemented a robust CI/CD pipeline and real-time communication features.",
       image: "https://res.cloudinary.com/dtjllpuoq/image/upload/v1735823687/Screenshot_222_ygucey.png",
       link: "https://lexlance.com",
       tags: ["AWS", "Docker", "Github Actions", "MongoDB"]
