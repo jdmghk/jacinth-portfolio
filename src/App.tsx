@@ -20,7 +20,7 @@ function App() {
           </p>
           <p className="text-xl text-gray-400 max-w-2xl mb-12">
             Over the years, I have worked on various projects ranging from small startups to medium sized enterprise.
-            I specialize in building robust backend systems and implementing efficient DevOps practices.
+            I specialize in building robust backend systems and implementing efficient DevOps practices. I also make 2D animations 😉.
           </p>
           <a 
             href="https://drive.google.com/file/d/1nT0V-DTDbTOWzoXt6j95nLy5CU14-WG3/view?usp=sharing" 
