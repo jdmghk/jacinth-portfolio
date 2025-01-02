@@ -1,4 +1,3 @@
-import React from 'react';
 import { Github, Mail, Linkedin } from 'lucide-react';
 import SocialLink from './SocialLink';
 
