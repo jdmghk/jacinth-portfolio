@@ -10,13 +10,13 @@ const Footer = () => {
         <div className="flex gap-8">
           <a 
             href="mailto:jacinthdavid@brieflynetworks.com" 
-            className="bg-[#111111] rounded-full p-6 hover:bg-[#181818] transition-colors"
+            className="bg-[#111111] rounded-full p-6 hover:bg-[#181818] transition-all duration-300 hover:scale-150"
           >
             <Mail size={32} className="text-blue-500" />
           </a>
           <a 
             href="https://twitter.com/jdmghk" 
-            className="bg-[#111111] rounded-full p-6 hover:bg-[#181818] transition-colors"
+            className="bg-[#111111] rounded-full p-6 hover:bg-[#181818] transition-all duration-300 hover:scale-150"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -24,7 +24,7 @@ const Footer = () => {
           </a>
           <a 
             href="https://www.linkedin.com/in/jacinth-david-990a03211/" 
-            className="bg-[#111111] rounded-full p-6 hover:bg-[#181818] transition-colors"
+            className="bg-[#111111] rounded-full p-6 hover:bg-[#181818] transition-all duration-300 hover:scale-150"
             target="_blank"
             rel="noopener noreferrer"
           >

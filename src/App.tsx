@@ -27,7 +27,7 @@ function App() {
             I have always been attracted to solving problems by crafting creative solutions.
           </p>
           <p className="text-xl text-gray-400 max-w-2xl mb-12">
-            I specialize in building robust backend systems and implementing efficient DevOps practices. I also make 2D animations 😉.
+            I specialize in building robust backend systems and implementing efficient DevOps practices. I also make 2D animations in my spare time 😉.
           </p>
           <a 
             href="https://drive.google.com/file/d/1nT0V-DTDbTOWzoXt6j95nLy5CU14-WG3/view?usp=sharing" 
