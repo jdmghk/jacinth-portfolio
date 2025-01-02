@@ -1,4 +1,3 @@
-import React from 'react';
 import { Code2, Database, Cloud, Brackets, FileCode, Server, CloudLightning, FlaskConical, Terminal, Container } from 'lucide-react';
 
 const skills = [
