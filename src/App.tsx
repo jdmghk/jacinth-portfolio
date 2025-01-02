@@ -22,7 +22,7 @@ function App() {
             />
           </div>
           <h1 className="text-7xl font-bold mb-6">Hi, I am Jacinth David 👋</h1>
-          <h2 className="text-3xl text-gray-400 mb-12">Backend Developer & DevOps Engineer</h2>
+          <h2 className="text-3xl text-gray-400 mb-12">Software Engineer</h2>
           <p className="text-xl text-gray-400 max-w-2xl mb-8">
             I have always been attracted to solving problems by crafting creative solutions.
           </p>
