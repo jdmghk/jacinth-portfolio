@@ -18,7 +18,7 @@ function App() {
             <img 
               src="https://res.cloudinary.com/dtjllpuoq/image/upload/v1735830510/avatartion_1_ovehel.png" 
               alt="Jacinth David Profile" 
-              className="w-32 h-32 rounded-full border-4 border-white shadow-lg"
+              className="w-32 h-32 rounded-full border-4 border-white shadow-lg transform transition-transform duration-300 hover:scale-110"
             />
           </div>
           <h1 className="text-7xl font-bold mb-6">Hi, I am Jacinth David 👋</h1>
