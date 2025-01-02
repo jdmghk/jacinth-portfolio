@@ -2,7 +2,7 @@ export const projects = [
     {
       id: 1,
       title: "FoodPulse",
-      description: "A food delivery platform with real-time order tracking and automated dispatch system. Implemented a robust CI/CD pipeline and DevOps practices.",
+      description: "A food content platform for content creators and food lovers to engage in cooking competitions and explore different recipes. Implemented a robust CI/CD pipeline and DevOps practices.",
       image: "https://res.cloudinary.com/dtjllpuoq/image/upload/v1735823688/Screenshot_224_qhtg97.png",
       link: "https://foodpulse.xyz",
       tags: ["AWS", "Docker", "Github Actions", "RDS"]
