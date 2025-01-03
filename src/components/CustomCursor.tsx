@@ -3,11 +3,16 @@
 import { useEffect, useState } from 'react'
 import { motion } from 'framer-motion'
 
-export default function CustomCursor() {
-  const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 })
+interface MousePosition {
+  x: number
+  y: number
+}
+
+export default function CustomCursor(): JSX.Element {
+  const [mousePosition, setMousePosition] = useState<MousePosition>({ x: 0, y: 0 })
 
   useEffect(() => {
-    const updateMousePosition = (e: MouseEvent) => {
+    const updateMousePosition = (e: MouseEvent): void => {
       setMousePosition({ x: e.clientX, y: e.clientY })
     }
 
@@ -34,4 +39,3 @@ export default function CustomCursor() {
     />
   )
 }
-
