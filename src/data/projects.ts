@@ -25,14 +25,6 @@ export const projects = [
     },
     {
       id: 4,
-      title: "Praisewine Online",
-      description: "Developed backend infrastructure for a ticketing platform handling high-concurrency ticket sales and real-time seat allocation.",
-      image: "https://res.cloudinary.com/dtjllpuoq/image/upload/v1735823689/Screenshot_227_btrsdc.png",
-      link: "https://ticketsbyallin.com",
-      tags: ["Node.js", "MongoDB", "Express.js", "Docker"]
-    },
-    {
-      id: 5,
       title: "  Praisewine 25",
       description: "PraiseWine is a gospel music concert held yearly in Port Harcourt, Nigeria",
       image: "https://res.cloudinary.com/dtjllpuoq/image/upload/v1746903244/praisewineeeee_nohyyc.jpg",
@@ -40,7 +32,7 @@ export const projects = [
       tags: ["Node.js", "MongoDB", "Express.js", "Docker", "AWS"]
     },
     {
-      id: 6,
+      id: 5,
       title: "Kingdom Millionaires Convention",
       description: "The Kingdom Millionaire Convention is a groundbreaking event designed to empower the Joshua Generation with tools, insights, and inspiration to achieve Financial Dominion, Marketplace Infiltration, and Position as Kingdom Financiers",
       image: "https://res.cloudinary.com/dtjllpuoq/image/upload/v1746901727/KCM-main-1_t7kob9.webp",
