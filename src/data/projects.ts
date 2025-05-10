@@ -20,7 +20,7 @@ export const projects = [
       title: "Glory Reign 25",
       description: "Event management platform for the Glory Reign Program. It was used to register over 10,000 attendees for the annual conference.",
       image: "https://res.cloudinary.com/dtjllpuoq/image/upload/v1735822401/GR25-logo_igpf83.png",
-      link: "https://gr25.org",
+      link: "https://www.gr25.org",
       tags: ["AWS", "Docker", "Github Actions", "Firebase"]
     },
     {
@@ -41,10 +41,10 @@ export const projects = [
     },
     {
       id: 6,
-      title: "Audio Mental Math",
-      description: "Audio Mental Math is an interactive learning platform designed to help primary school children (ages 7-11) develop mental math skills through audio-based exercises.",
+      title: "Kingdom Millionaires Convention",
+      description: "The Kingdom Millionaire Convention is a groundbreaking event designed to empower the Joshua Generation with tools, insights, and inspiration to achieve Financial Dominion, Marketplace Infiltration, and Position as Kingdom Financiers",
       image: "https://res.cloudinary.com/dtjllpuoq/image/upload/v1735825394/photo-1590479773265-7464e5d48118_fslwrm.avif",
-      link: "",
-      tags: ["Node.js", "Docker", "Express.js", "Typescript"]
+      link: "https://kingdommillionairesconvention.com/",
+      tags: ["AWS", "Docker", "Github Actions", "MongoDB"]
     }
   ];
